@@ -40,10 +40,10 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-- Clone *'react-timer-basic'* repository from GitHub
+- Clone *'tic-tac-toe'* repository from GitHub
 
   ```
-  git clone https://github.com/drminnaar/react-timer-basic.git
+  git clone https://github.com/mperezsoriano/tic-tac-toe.git
   ```
 
 - Install node modules
